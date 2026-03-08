@@ -1,6 +1,6 @@
 ## IMPORTANT NOTE
 ## Dataset
-The dataset used in this project is large and not included in the repository.
+The second dataset historical_data.csv used in this project is large and not included in the repository.
 Download it here:
 https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
