@@ -2,7 +2,7 @@
 ## Dataset
 The dataset used in this project is large and not included in the repository.
 Download it here:
-[Google Drive Link]
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 Files:
 - historical_data.csv
 - fear_greed_index.csv
