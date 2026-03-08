@@ -6,6 +6,9 @@ Download it here:
 Files:
 - historical_data.csv
 - fear_greed_index.csv
+## Notebook Preview
+If GitHub fails to render the notebook, view it here:
+https://nbviewer.org/github/Deeps-G/trader-behavior-sentiment-analysis/blob/main/Data_science_internship_round_0.ipynb
   
 # Trader Behavior vs Market Sentiment Analysis
 
